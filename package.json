@@ -1,12 +1,7 @@
 {
-  "name": "Angular 2 workflow",
+  "name": "angular2",
   "version": "1.0.0",
-  "author": "Bugsy Alexander",
   "description": "Angular 2 - A comprehensive Gulp.js workflow",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bugsyAlexander/Angular-2-workflow.git"
-  },
   "devDependencies": {
     "angular2": "2.0.0-beta.2",
     "systemjs": "0.19.6",
@@ -19,5 +14,18 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-typescript": "^2.10.0",
     "gulp-webserver": "^0.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugsyAlexander/Angular-2-workflow.git"
+  },
+  "keywords": [
+    "Angular2"
+  ],
+  "author": "Bugsy Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugsyAlexander/Angular-2-workflow/issues"
+  },
+  "homepage": "https://github.com/bugsyAlexander/Angular-2-workflow#readme"
 }
